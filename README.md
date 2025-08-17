@@ -1,5 +1,5 @@
 # Yakuza MT Texture Creator
-![Total Downloads](https://img.shields.io/github/downloads/PixelIndieDev/Yakuza-MT-Texture-Creator/total?style=flat) ![GitHub Repo stars](https://img.shields.io/github/stars/PixelIndieDev/Yakuza-MT-Texture-Creator?style=flat)
+![Total Downloads](https://img.shields.io/github/downloads/PixelIndieDev/Yakuza-MT-Texture-Creator/total?style=flat)
 
 Yakuza MT Texture Creator is a Windows tool for Yakuza/Like a Dragon game modders and anyone who wants to combine multiple PNG images into a single texture. It allows you to merge up to three PNGs into the RGB channels of one PNG file while providing channel labels compatible with different Yakuza engines.
 
@@ -39,4 +39,5 @@ Channel usage and MT implementation based on this website: [Yakuza Material Docu
 ## Keywords
 
 Yakuza modding, Yakuza texture tool, PNG channel merge, Specular map, Ambient Occlusion map, Specular Power map, Old Engine, Dragon Engine, grayscale texture, image channel combiner, modder tools, game modding utility
+
 
