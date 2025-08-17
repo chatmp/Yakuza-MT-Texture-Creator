@@ -28,6 +28,9 @@ Yakuza MT Texture Creator is a Windows tool for Yakuza/Like a Dragon game modder
 * Optionally, switch between Old Engine and Dragon Engine labeling.
 * Click Export to generate the combined PNG.
 
+> [!TIP]
+> I recommend to use greyscale images as inputs
+
 > [!IMPORTANT]
 > * Each color channel is always grayscale. Saving full-color data into channels is not supported.
 > * Transparent pixels are multiplied with the grayscale channel to maintain correct intensity.
@@ -39,5 +42,6 @@ Channel usage and MT implementation based on this website: [Yakuza Material Docu
 ## Keywords
 
 Yakuza modding, Yakuza texture tool, PNG channel merge, Specular map, Ambient Occlusion map, Specular Power map, Old Engine, Dragon Engine, grayscale texture, image channel combiner, modder tools, game modding utility
+
 
 
